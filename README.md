@@ -14,4 +14,4 @@
 
 I study **multimodal intelligence**, with a particular interest in how intelligent systems integrate visual information, heterogeneous data, and domain knowledge for perception and reasoning.
 
-My current research focuses on **multimodal agents**, **multimodal deep learning**, **computer vision**, **Medical World Model** and **medical imaging**.
+My current research focuses on **multimodal agents**, **medical world model**, **multimodal deep learning**, **computer vision** and **medical imaging**.
